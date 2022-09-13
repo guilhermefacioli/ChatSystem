@@ -1,0 +1,17 @@
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\bin\Debug\net6.0\ChatSystem.DatabaseAccess.deps.json
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\bin\Debug\net6.0\ChatSystem.DatabaseAccess.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\bin\Debug\net6.0\ref\ChatSystem.DatabaseAccess.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\bin\Debug\net6.0\ChatSystem.DatabaseAccess.pdb
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\bin\Debug\net6.0\ChatSystem.Common.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\bin\Debug\net6.0\ChatSystem.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\bin\Debug\net6.0\ChatSystem.pdb
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\bin\Debug\net6.0\ChatSystem.Common.pdb
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ChatSystem.DatabaseAccess.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ChatSystem.DatabaseAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ChatSystem.DatabaseAccess.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ChatSystem.DatabaseAccess.AssemblyInfo.cs
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ChatSystem.DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ChatSystem.DatabaseAccess.csproj.CopyComplete
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ChatSystem.DatabaseAccess.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ref\ChatSystem.DatabaseAccess.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\Chat.DatabaseAccess\obj\Debug\net6.0\ChatSystem.DatabaseAccess.pdb

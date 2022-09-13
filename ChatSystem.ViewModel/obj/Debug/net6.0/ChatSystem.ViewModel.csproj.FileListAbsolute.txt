@@ -1,0 +1,17 @@
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\bin\Debug\net6.0\ChatSystem.ViewModel.deps.json
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\bin\Debug\net6.0\ChatSystem.ViewModel.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\bin\Debug\net6.0\ref\ChatSystem.ViewModel.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\bin\Debug\net6.0\ChatSystem.ViewModel.pdb
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\bin\Debug\net6.0\ChatSystem.Common.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\bin\Debug\net6.0\ChatSystem.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\bin\Debug\net6.0\ChatSystem.pdb
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\bin\Debug\net6.0\ChatSystem.Common.pdb
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ChatSystem.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ChatSystem.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ChatSystem.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ChatSystem.ViewModel.AssemblyInfo.cs
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ChatSystem.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ChatSystem.ViewModel.csproj.CopyComplete
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ChatSystem.ViewModel.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ref\ChatSystem.ViewModel.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem.ViewModel\obj\Debug\net6.0\ChatSystem.ViewModel.pdb

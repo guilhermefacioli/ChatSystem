@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\bin\Debug\net6.0\ChatSystem.deps.json
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\bin\Debug\net6.0\ChatSystem.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\bin\Debug\net6.0\ref\ChatSystem.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\bin\Debug\net6.0\ChatSystem.pdb
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\bin\Debug\net6.0\ChatSystem.Common.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\bin\Debug\net6.0\ChatSystem.Common.pdb
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ChatSystem.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ChatSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ChatSystem.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ChatSystem.AssemblyInfo.cs
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ChatSystem.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ChatSystem.csproj.CopyComplete
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ChatSystem.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ref\ChatSystem.dll
+C:\Users\Guilherme\Projetos C#\ChatSystem\ChatSystem\obj\Debug\net6.0\ChatSystem.pdb

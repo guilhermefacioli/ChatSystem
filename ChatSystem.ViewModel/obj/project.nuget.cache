@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hia6ORGV5X/jnyk/It0kJaVMD313vQj9aLVcVveEGhFNurLw1VkxcjFeKvFo1RD3ewwislkqZuyl7Q9VmPSJ+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.ViewModel\\ChatSystem.ViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.8\\microsoft.aspnetcore.jsonpatch.5.0.8.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.8\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.8.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Guilherme\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

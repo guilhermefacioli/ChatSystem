@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ChatSystem.Api": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "hotReloadEnabled": false
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "67be76f3-a369-4bab-9502-a004e14f80eb": {
+      "ProjectGuid": "67be76f3-a369-4bab-9502-a004e14f80eb",
+      "DisplayName": "ChatSystem",
+      "ColorIndex": 0
+    },
+    "b490c048-8bd7-4f0f-a90e-269e0b4e025a": {
+      "ProjectGuid": "b490c048-8bd7-4f0f-a90e-269e0b4e025a",
+      "DisplayName": "ChatSystem.Common",
+      "ColorIndex": 1
+    },
+    "d8c01b90-702d-4dfa-a9e8-6290d8122657": {
+      "ProjectGuid": "d8c01b90-702d-4dfa-a9e8-6290d8122657",
+      "DisplayName": "ChatSystem.DatabaseAccess",
+      "ColorIndex": 2
+    },
+    "2a332ea2-5e83-4a59-bd2b-fac88771e006": {
+      "ProjectGuid": "2a332ea2-5e83-4a59-bd2b-fac88771e006",
+      "DisplayName": "ChatSystem.ViewModel",
+      "ColorIndex": 3
+    },
+    "e3f15c14-0e98-41e8-8ff6-fe31faba00b3": {
+      "ProjectGuid": "e3f15c14-0e98-41e8-8ff6-fe31faba00b3",
+      "DisplayName": "ChatSystem.Api",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

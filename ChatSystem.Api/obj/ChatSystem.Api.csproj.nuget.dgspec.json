@@ -1,0 +1,342 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Api\\ChatSystem.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\Chat.DatabaseAccess\\ChatSystem.DatabaseAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\Chat.DatabaseAccess\\ChatSystem.DatabaseAccess.csproj",
+        "projectName": "ChatSystem.DatabaseAccess",
+        "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\Chat.DatabaseAccess\\ChatSystem.DatabaseAccess.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\Chat.DatabaseAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj": {
+                "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Api\\ChatSystem.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Api\\ChatSystem.Api.csproj",
+        "projectName": "ChatSystem.Api",
+        "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Api\\ChatSystem.Api.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\Chat.DatabaseAccess\\ChatSystem.DatabaseAccess.csproj": {
+                "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\Chat.DatabaseAccess\\ChatSystem.DatabaseAccess.csproj"
+              },
+              "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.ViewModel\\ChatSystem.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.ViewModel\\ChatSystem.ViewModel.csproj"
+              },
+              "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj": {
+                "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Common\\ChatSystem.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Common\\ChatSystem.Common.csproj",
+        "projectName": "ChatSystem.Common",
+        "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Common\\ChatSystem.Common.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.ViewModel\\ChatSystem.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.ViewModel\\ChatSystem.ViewModel.csproj",
+        "projectName": "ChatSystem.ViewModel",
+        "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.ViewModel\\ChatSystem.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj": {
+                "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj",
+        "projectName": "ChatSystem",
+        "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\ChatSystem.csproj",
+        "packagesPath": "C:\\Users\\Guilherme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Guilherme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Common\\ChatSystem.Common.csproj": {
+                "projectPath": "C:\\Users\\Guilherme\\Projetos C#\\ChatSystem\\ChatSystem.Common\\ChatSystem.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
